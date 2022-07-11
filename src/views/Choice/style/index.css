@@ -1,0 +1,30 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 120px;
+}
+
+.container .paper-scissors-rock {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -350px;
+}
+
+.container .paper-scissors-rock .paper-scissors {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.button-rules-choice {
+    width: 98%;
+    display: flex;
+    justify-content: end;
+    margin-bottom: 27px;
+}
