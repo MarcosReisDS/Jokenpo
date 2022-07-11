@@ -16,13 +16,6 @@ left: 0;
     padding: 10px 20px;
     background-color: #fff;
     border-radius: 20px;
-    /* box-shadow: 300px 0px 80px rgba(0, 0, 0, .4), -300px 0px 80px rgba(0, 0, 0, .4),
-        -640px 0px 80px rgba(0, 0, 0, .4), 640px 0px 80px rgba(0, 0, 0, .4),
-        0px 200px 80px rgba(0, 0, 0, .4), 0px -200px 80px rgba(0, 0, 0, .4),
-        -340px -340px 80px rgba(0, 0, 0, .4), 340px -340px 80px rgba(0, 0, 0, .4),
-        -340px 340px 80px rgba(0, 0, 0, .4), 340px 340px 80px rgba(0, 0, 0, .4),
-        -650px 340px 80px rgba(0, 0, 0, .4), 650px 340px 80px rgba(0, 0, 0, .4),
-        650px -340px 80px rgba(0, 0, 0, .4), -650px -340px 80px rgba(0, 0, 0, .4) */
 }
 
 .rules-container .rules .exit {
