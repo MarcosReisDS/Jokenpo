@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+.container-general-scoreboard {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.container-general-scoreboard .container-scoreboard {
+    width: 40%;
+    padding: 10px 20px;
+    border: 2px solid rgba(255, 255, 255, .3);
+    border-radius: 10px
+}
+
+.container-general-scoreboard .container-scoreboard .container-scoreboard-separates {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-general-scoreboard .container-scoreboard .container-scoreboard-separates .can-play {
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.container-general-scoreboard .container-scoreboard .container-scoreboard-separates .can-play .paper {
+    margin: -8px 0px -8px 0px;
+}
+
+.container-general-scoreboard .container-scoreboard .container-scoreboard-separates .box-scoreboard {
+    width: 90px;
+    height: 80px;
+    background-color: #fff;
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+
+}
+
+.container-general-scoreboard .container-scoreboard .container-scoreboard-separates .box-scoreboard .score {
+    font-size: 12px;
+    color: hsl(214, 47%, 23%);
+}
+
+.container-general-scoreboard .container-scoreboard .container-scoreboard-separates .box-scoreboard .score-number {
+    font-size: 25px;
+    color: hsl(214, 47%, 23%);
+}
